@@ -6,7 +6,7 @@
     "Command": "randomdino",
     "Description": "Dino: Random \nLevel: 224 \nBreedable: Yes",
     "Image": "Texture2D/Game/Mods/MazacaUI/Images/question_mark.question_mark",
-    "Texture": "True",
+    "Texture": "True"
   },
   {
     "id": 2,
@@ -15,6 +15,6 @@
     "Command": "buy 1",
     "Description": "Dino: Ankylosaurus \nLevel: 50 \nBreedable: No",
     "Image": "MaterialInstanceConstant/Game/PrimalEarth/Dinos/Icons/DinoEnteryIcon_Anky.DinoEntryIcon_Anky",
-    "Texture": "False",
+    "Texture": "False"
   }
   ]
